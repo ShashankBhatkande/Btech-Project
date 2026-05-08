@@ -154,4 +154,7 @@ lightning_logs/
 # Scripts
 scripts/
 predictions_vs_actual.csv
-data/*.csv
+los_adj.csv
+los_speed.csv
+sz_adj.csv
+sz_speed.csv
